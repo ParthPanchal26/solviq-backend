@@ -1,7 +1,9 @@
 # solviq-backend
 
-#### users endpoints:
+### users endpoints:
 
-/api/v1/users/sign-up
-/api/v1/users/sign-in
-/api/v1/users/logout
+#### /api/v1/users/sign-up
+
+#### /api/v1/users/sign-in
+
+#### /api/v1/users/logout
